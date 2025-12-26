@@ -30,7 +30,7 @@ The analysis focuses on answering key business questions such as:
 + How does shipping mode impact profit margins?
 + Which regions and states perform best in terms of profit?
 + Which products consistently generate losses?
-
+  
 ### **📈 Key Business Insights**
 
 + Technology is the most profitable category, while Furniture generates high sales but low profit.
@@ -39,3 +39,7 @@ The analysis focuses on answering key business questions such as:
 + Standard Class shipping generates the highest profit, while faster shipping options reduce margins.
 + Shipping delays tend to be more profitable than same-day delivery.
 + A small number of loss-making sub-categories significantly reduce overall profitability.
+
+### **Author**
+**Atoyebi Simon Blessing**  
+**Aspiring Data Analyst | SQL • Python • Data Analysis**
